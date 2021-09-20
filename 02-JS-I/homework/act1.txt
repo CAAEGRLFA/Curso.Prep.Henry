@@ -1,0 +1,14 @@
+Variable: es un elemento donde se puede almacenar el valor de algo
+String: Es una cadena texto el cual puede ser guardado en una variable.
+Funciones: son objetos creados para cumplir un objetivo, 
+las cuales tienen que ser configuradas a través de argumentos que son
+parametros de entrada y y de los cuales se obtienen parametros de salida
+Además dentro de la función se puede utilizar una instrucción
+llamada return, la cual no permite acceder a los datos obtenidos, los datos 
+se escapan.
+El if es un condicional que indica que si sucede una cosa se ejecutan 
+un conjunto de instrucciones y si sucede otra cosa las instrucciones 
+cambian.
+Una variable puede tener diferentes valores, ser string, numeros o booleanos
+Los valores booleanos tienen la logica digital, 0 o 1, es decir falso o 
+verdadero respectivamente.
