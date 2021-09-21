@@ -1,0 +1,21 @@
+
+La expresión for se utiliza para realizar acciones repetitivas de forma más eficiente y sintética. 
+Esta expresión trabaja de forma cíclica, es decir, realizando lo que se llama bucle. 
+El uso de esta expresión tiene una estructura definida. Consta de una condición y el código, 
+el cual establece lo que se debe hacer durante cada ciclo. A su vez la condición tiene 3 partes: 
+primero se indica la condición de inicio, después hasta cuando se realizará el ciclo y por ultimo 
+cómo se incrementa esa condición de inicio en cada ciclo.
+For (Condicion) {
+//código
+}
+For (inicio, límite del ciclo, incremento){
+//Que se pretende que haga durante ese ciclo
+}
+
+Los operadores lógicos se utilizan para comparar expresiones. 
+Son operadores lógicos && (AND), || (OR), !  (NOT).  
+La comparación de dos expresiones a través de algunos de estos operadores da como resultado un Booleano, 
+es decir puede ser true (verdadero) o false (falso). 
+Existe una lógica matemática cuando se utilizan estos operadores ya sea solos o de forma combinada. 
+Dependiendo de cómo sea esa comparación, se obtendrá un resultado verdadero o falso. 
+Se utilizan estos operadores en los bucles (en los condicionales)
