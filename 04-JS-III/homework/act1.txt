@@ -1,0 +1,5 @@
+Un arreglo es un conjunto de elementos ordenados, de manera tal que cada uno tiene una posicion numérica
+definida. Un arreglo puede almacenar distintos tipos de datos: numerico, string, booleanos, undefined,
+null, etc. Los arreglos tienen funciones asociados que nos permiten operar con los elementos que contienen.
+Por ejemplo se puede saber cuantos elementos tiene a traves de .length, sacar o poner elementos, a traves de 
+las funciones push y pop respectivamente.
