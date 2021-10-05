@@ -1,0 +1,12 @@
+Un objeto en una colección de propiedades y cada propiedad tiene un nombre (o clave) y está asociada
+a la asignación de un valor. Dicho valor puede ser un número, un string, una función (o método), un array.
+Una función es un método, y como explique antes a una propiedad de un objeto puede asignársele la misma 
+como valor.
+El bucle for también puede utilizarse en los objetos solo que cambia la sintaxis, ya que los objetos no 
+contienen índices numéricos. En el paréntesis del for se establece la clave y el objeto.
+Hay dos modos de acceder a las propiedades de los objetos a través de la notación de puntos y de la 
+notación de corchetes.
+Para usar la notación de corchetes se escribe el nombre del objeto seguido de corchetes []. 
+Dentro de los corchetes, escribe el nombre de la propiedad como un string. La notación con corchetes, 
+a diferencia de la notación de puntos, puede usarse con variables. Si usas una variable con notación con 
+corchetes, la variable debe hacer referencia a un string.
